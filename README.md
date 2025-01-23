@@ -4,6 +4,18 @@ C# dilinde MYSQL kullanılarak N katmanlı mimariye sahip Otel Rezervasyon Siste
 ## 🎥 Youtube Linki
 https://youtu.be/S01HYkuW0Ws?si=iK8M0GXOna8_rOtD
 <br><br/>
+## 📋 PROJE DİYAGRAMLARI
+
+### Sınıf Diyagramı
+![Image](https://github.com/user-attachments/assets/867a238d-9dbd-495c-bdcd-41f6b3ecabba)
+<br><br/>
+### ER Diyagramı
+![Image](https://github.com/user-attachments/assets/fba49f9e-c6b3-4e14-9a39-549be6ca379d)
+<br><br/>
+### USE CASE Diyagramı
+<img width="656" alt="Image" src="https://github.com/user-attachments/assets/beb23e8d-127d-4c30-b660-69e838b03617" />
+<br><br/>
+
 ## 🖼️ ARAYÜZE AİT FOTOĞRAFLAR
 
 
