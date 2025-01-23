@@ -1,7 +1,9 @@
 # 🏨 OTEL REZERVASYON SİSTEMİ
 C# dilinde MYSQL kullanılarak N katmanlı mimariye sahip Otel Rezervasyon Sistemidir. Basit ve kullanıcı dostu ara yüzüyle otel sahiplerinin isteklerini karşılayacak niteliktedir.
 <br><br/>
-
+## 🎥 Youtube Linki
+https://youtu.be/S01HYkuW0Ws?si=iK8M0GXOna8_rOtD
+<br><br/>
 ## 🖼️ ARAYÜZE AİT FOTOĞRAFLAR
 
 
