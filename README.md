@@ -36,4 +36,4 @@ https://youtu.be/S01HYkuW0Ws?si=iK8M0GXOna8_rOtD
 ![Image](https://github.com/user-attachments/assets/5ea34b4a-985d-42d0-82bb-f149875bf1f7)
 <br><br/>
 ### 📁 Faturalar Sayfası 
-![Image](https://github.com/user-attachments/assets/0f8c5f27-7fc8-4b7b-aa23-ca98fc0abae0)
+![Image](https://github.com/user-attachments/assets/a0da6c91-5069-4b7b-b75c-10519f5aa818)
